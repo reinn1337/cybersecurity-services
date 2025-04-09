@@ -1,5 +1,5 @@
 # cybersecurity-services
-Affordable Cybersecurity Solutions bu COARB CYBER SEC 
+Affordable Cybersecurity Solutions by COARB CYBER SEC 
 
 
 # COARB CYBER SEC - Cybersecurity Services
